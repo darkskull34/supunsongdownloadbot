@@ -13,7 +13,7 @@ Hey [{}](tg://user?id={}), I'm powerful  Song Downloader Bot 🎵
 😉 Just send me the song name you want to download.😋
       eg:```/song saritha```
       
-A bot by @supunma 🇱🇰
+A bot by @A_l_O_N_F_O_R_E_V_E_R 🇱🇰
 """
 
 @app.on_message(filters.command("start"))
